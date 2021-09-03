@@ -3,7 +3,7 @@ pkgver=1.0
 pkgrel=1.5
 pkgdesc="RebornOS images used in lightdm-gtk-greeter"
 arch=('any')
-url="https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-lightdm-gtk-greeter-images"
+url="https://github.com/RebornOS-Developers/rebornos-lightdm-gtk-greeter-images"
 license=('GPL3')
 source=('avatar.png' 
         'rebornos.jpg')
